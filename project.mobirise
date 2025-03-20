@@ -49,14 +49,15 @@
     "versionPublish": "5.9.0",
     "imageResize": true,
     "usedWebp": true,
-    "favicon": false,
-    "mbrsiteDomain": "pydkjgqivg",
+    "favicon": "@PROJECT_PATH@/assets/images/tv-lucaswyte-au-favicon-96x96.png",
+    "mbrsiteDomain": "vgu111qitv",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
