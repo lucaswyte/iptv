@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 ,ACC Digital Nework
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,beIN Sports Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Gusto TV
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Origin Sports
+https://raycom-originsports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,PAC-12 Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,T2 Live Tennis
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Vice TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Vice News
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8

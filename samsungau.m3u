@@ -1,0 +1,238 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1010" tvg-name="Sky News Now" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700008RF_20230322T011343SQUARE.png_20230322011344.png" group-title="News",Sky News Now
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1019" tvg-name="Bloomberg TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900013ZV_20230322T011324SQUARE.png_20230322011325.png" group-title="News",Bloomberg TV
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1024" tvg-name="Breaking News by LeadStory" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800006YI_20230628T010104SQUARE.png_20230628010105.png" group-title="News",Breaking News by LeadStory
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1040" tvg-name="Euronews World" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA470000578_20220329T055319SQUARE.png_20220329055319.png" group-title="News",Euronews World
+https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1050" tvg-name="GB News" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB48000041Q_20220427T004905SQUARE.png_20220427004907.png" group-title="News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1053" tvg-name="ausbiz" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA47000046Y_20230726T002701SQUARE.png_20230726002702.png" group-title="News",ausbiz
+https://ausbiztv-ausbiz-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1070" tvg-name="Mythbusters" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD18000182E_20240214T030253SQUARE.png_20240214030254.png" group-title="Bingeable TV Shows",Mythbusters
+https://amg00627-banijay-amg00627c14-samsung-au-2340.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1073" tvg-name="Hell's Kitchen" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800017S9_20240131T031204SQUARE.png_20240131031205.png" group-title="Bingeable TV Shows",Hell's Kitchen
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1075" tvg-name="Baywatch" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB4800005IG_20230726T002713SQUARE.png_20230726002714.png" group-title="Bingeable TV Shows",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1076" tvg-name="Duck Dynasty" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD4500008K7_20240522T015216SQUARE.png" group-title="Bingeable TV Shows",Duck Dynasty
+https://d2wxbkuzb50ufu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1077" tvg-name="Dog the Bounty Hunter" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD4500007ZC_20240828T012616SQUARE.png" group-title="Bingeable TV Shows",Dog the Bounty Hunter
+https://d3rp50rz5j7gy5.cloudfront.net/DogTheBountyHunter_US.m3u8
+#EXTINF:-1 tvg-chno="1079" tvg-name="8 Out of 10 Cats" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU90000946_20240911T093423SQUARE.png" group-title="Bingeable TV Shows",8 Out of 10 Cats
+https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1080" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC22000057Z_20230726T002808SQUARE.png_20230726002809.png" group-title="Bingeable TV Shows",The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1085" tvg-name="Deal or No Deal" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU900005LM_20240724T012655SQUARE.png" group-title="Bingeable TV Shows",Deal or No Deal
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1088" tvg-name="Highway Thru Hell" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU40000526_20240403T031512SQUARE.png" group-title="Bingeable TV Shows",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1089" tvg-name="Hardcore Pawn" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD41000047I_20231213T033754SQUARE.png_20231213033755.png" group-title="Bingeable TV Shows",Hardcore Pawn
+https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1090" tvg-name="Grace and Frankie" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU400004JV_20240417T021826SQUARE.png" group-title="Bingeable TV Shows",Grace and Frankie
+https://amg00353-amg00353c24-samsung-au-2984.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-graceandfrankie-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1092" tvg-name="Hot Ones" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1200001P6_20240508T020041SQUARE.png" group-title="Bingeable TV Shows",Hot Ones
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_hotones_002.m3u8
+#EXTINF:-1 tvg-chno="1093" tvg-name="Ax Men" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1800001SP_20240717T025950SQUARE.png" group-title="Bingeable TV Shows",Ax Men
+https://d3u3kiq48rpwlx.cloudfront.net/v1/aenetworks_axmen_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="1094" tvg-name="Modern Marvels" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU14000023W_20240717T025953SQUARE.png" group-title="Bingeable TV Shows",Modern Marvels
+https://d36h0wr022ecx.cloudfront.net/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="1095" tvg-name="Intervention" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1800010LG_20240717T025958SQUARE.png" group-title="Bingeable TV Shows",Intervention
+https://d1fgpy58dwnjlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9ovuuxeo5r512/playlist.m3u8
+#EXTINF:-1 tvg-chno="1096" tvg-name="Tiny House Nation" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1800002YY_20240529T021049SQUARE.png" group-title="Bingeable TV Shows",Tiny House Nation
+https://d3lp0uiwm2m57l.cloudfront.net/v1/aenetworks_tinyhousenation_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="1097" tvg-name="Bondi Vet" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4700001HY_20230726T002716SQUARE.png_20230726002717.png" group-title="Bingeable TV Shows",Bondi Vet
+https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1101" tvg-name="Little Women: LA" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1800008LL_20240626T024559SQUARE.png" group-title="Bingeable TV Shows",Little Women: LA
+https://d3uuxmvz9qi6a1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2322wi60v1e15/playlist.m3u8
+#EXTINF:-1 tvg-chno="1102" tvg-name="The Biggest Loser" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700009JP_20230726T002801SQUARE.png_20230726002802.png" group-title="Bingeable TV Shows",The Biggest Loser
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1104" tvg-name="Wipeout Xtra" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800001MA_20240529T021051SQUARE.png" group-title="Bingeable TV Shows",Wipeout Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1105" tvg-name="Fear Factor" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700003QG_20230726T002726SQUARE.png_20230726002727.png" group-title="Bingeable TV Shows",Fear Factor
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1107" tvg-name="Ghost Hunters" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU900002BU_20240529T021039SQUARE.png" group-title="Bingeable TV Shows",Ghost Hunters
+https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1109" tvg-name="Four in a Bed" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD800004FZ_20230726T002729SQUARE.png_20230726002730.png" group-title="Bingeable TV Shows",Four in a Bed
+https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1111" tvg-name="Don't Tell The Bride" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU9000039Z_20240612T014333SQUARE.png" group-title="Bingeable TV Shows",Don't Tell The Bride
+https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1112" tvg-name="Antiques Road Trip" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD41000051D_20240529T021031SQUARE.png" group-title="Bingeable TV Shows",Antiques Road Trip
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-chno="1113" tvg-name="The Hotel Inspector" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800016PA_20240529T021044SQUARE.png" group-title="Bingeable TV Shows",The Hotel Inspector
+https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1115" tvg-name="Unsolved Mysteries" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU120000395_20240508T020044SQUARE.png" group-title="Bingeable TV Shows",Unsolved Mysteries
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_unsolvedmysteries_002.m3u8
+#EXTINF:-1 tvg-chno="1116" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU12000028W_20240508T020039SQUARE.png" group-title="Bingeable TV Shows",Dr. G: Medical Examiner
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_drgmedicalexaminer_002.m3u8
+#EXTINF:-1 tvg-chno="1120" tvg-name="Real Crime" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4800005HB_20230726T002613SQUARE.png_20230726002614.png" group-title="Documentary",Real Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1125" tvg-name="True Crime Now" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU400002HA_20240228T040337SQUARE.png_20240228040338.png" group-title="Documentary",True Crime Now
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1130" tvg-name="History & Warfare Now" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD18000193S_20240228T040329SQUARE.png_20240228040330.png" group-title="Documentary",History & Warfare Now
+https://amg00376-magellan-amg00376c19-samsung-au-1734.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1135" tvg-name="History Hit" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000001NW_20230726T002535SQUARE.png_20230726002536.png" group-title="Documentary",History Hit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1140" tvg-name="Magellan TV Now" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD180002087_20240228T040332SQUARE.png_20240228040333.png" group-title="Documentary",Magellan TV Now
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1150" tvg-name="PBS History" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000017H7_20231213T033749SQUARE.png_20231213033750.png" group-title="Documentary",PBS History
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1152" tvg-name="Waterbear" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC2200004T9_20230726T002816SQUARE.png_20230726002817.png" group-title="Documentary",Waterbear
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1154" tvg-name="NatureTime" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4100003AT_20230726T002755SQUARE.png_20230726002756.png" group-title="Documentary",NatureTime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1156" tvg-name="Bloomberg Originals" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA39000145F_20230726T002501SQUARE.png_20230726002502.png" group-title="Documentary",Bloomberg Originals
+https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1160" tvg-name="Wonder" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000027O_20230726T002658SQUARE.png_20230726002659.png" group-title="Documentary",Wonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1164" tvg-name="Real Wild" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA480000423_20230726T002621SQUARE.png_20230726002622.png" group-title="Documentary",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realwild-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1166" tvg-name="Pulse TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000107P_20230726T002610SQUARE.png_20230726002611.png" group-title="Documentary",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1175" tvg-name="MovieSphere" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA48000082F_20230726T002548SQUARE.png_20230726002549.png" group-title="Movies",MovieSphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1177" tvg-name="RCM" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000009KM_20230913T014818SQUARE.png_20230913014819.png" group-title="Movies",RCM
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-rialtosamsungaustralia/playlist.m3u8
+#EXTINF:-1 tvg-chno="1180" tvg-name="Action Hollywood Movies" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png" group-title="Movies",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1190" tvg-name="The Asylum" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900018QY_20220329T055347SQUARE.png_20220329055348.png" group-title="Movies",The Asylum
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_theasylum.m3u8
+#EXTINF:-1 tvg-chno="1205" tvg-name="The Archive" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900019ON_20220329T055431SQUARE.png_20220329055432.png" group-title="Movies",The Archive
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_thearchive_002.m3u8
+#EXTINF:-1 tvg-chno="1210" tvg-name="MyTime Movies" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA480000286_20220329T055447SQUARE.png_20220329055448.png" group-title="Movies",MyTime Movies
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1001" tvg-name="Entertainment Hub" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC2200003CA_20241113T015851SQUARE.png" group-title="Entertainment",Entertainment Hub
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1300" tvg-name="FailArmy" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900002D5_20230726T002517SQUARE.png_20230726002518.png" group-title="Entertainment",FailArmy
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1301" tvg-name="Conan O'Brien TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD450000224_20240717T030000SQUARE.png" group-title="Entertainment",Conan O'Brien TV
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1305" tvg-name="The Pet Collective" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA39000033Q_20230726T002640SQUARE.png_20230726002641.png" group-title="Entertainment",The Pet Collective
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1310" tvg-name="Entertain" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700001X1_20240131T031156SQUARE.png_20240131031156.png" group-title="Entertainment",Entertain
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-itvchoice-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1315" tvg-name="Life Down Under" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD800005CR_20230726T002744SQUARE.png_20230726002744.png" group-title="Entertainment",Life Down Under
+https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1320" tvg-name="Nosey" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000020FL_20230726T002557SQUARE.png_20230726002558.png" group-title="Entertainment",Nosey
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-nosey-intl-1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1330" tvg-name="Haunt TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC41000012Y_20230726T002736SQUARE.png_20230726002737.png" group-title="Entertainment",Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1335" tvg-name="Dry Bar Comedy" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA39000014J_20230726T002511SQUARE.png_20230726002513.png" group-title="Entertainment",Dry Bar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1350" tvg-name="People Are Awesome" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA390000518_20230726T002605SQUARE.png_20230726002606.png" group-title="Entertainment",People Are Awesome
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1355" tvg-name="WeatherSpy" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA39000041B_20230726T002652SQUARE.png_20230726002654.png" group-title="Entertainment",WeatherSpy
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1360" tvg-name="Pet Club TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000018GK_20230726T002608SQUARE.png_20230726002609.png" group-title="Entertainment",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1652" tvg-name="InWonder" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3500007VY_20240214T030241SQUARE.png_20240214030242.png" group-title="Entertainment",InWonder
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1653" tvg-name="InWild" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3500008Z2_20240214T030243SQUARE.png_20240214030244.png" group-title="Entertainment",InWild
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1400" tvg-name="Tastemade" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA350000198_20220329T055408SQUARE.png_20220329055409.png" group-title="Lifestyle",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1401" tvg-name="The Design Network" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB1700005JT_20220525T010911SQUARE.png_20220525010913.png" group-title="Lifestyle",The Design Network
+https://thedesignnetwork-tdn-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1403" tvg-name="Homeful Channel" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD18000124K_20230823T005308SQUARE.png_20230823005309.png" group-title="Lifestyle",Homeful Channel
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1405" tvg-name="TravelXP" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900012X2_20220329T055416SQUARE.png_20220329055417.png" group-title="Lifestyle",TravelXP
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1410" tvg-name="Gusto TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900007GR_20220329T055418SQUARE.png_20220329055419.png" group-title="Lifestyle",Gusto TV
+https://gustotv-samsung-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1425" tvg-name="PowerNation" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800013WT_20230823T005311SQUARE.png_20230823005312.png" group-title="Lifestyle",PowerNation
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1430" tvg-name="Choppertown" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900021BP_20220329T055451SQUARE.png_20220329055452.png" group-title="Lifestyle",Choppertown
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_choppertown_001.m3u8
+#EXTINF:-1 tvg-chno="1638" tvg-name="Outdoor Channel" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000076T_20240214T030246SQUARE.png_20240214030247.png" group-title="Lifestyle",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1650" tvg-name="InFast" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA35000057Y_20240214T030236SQUARE.png_20240214030237.png" group-title="Lifestyle",InFast
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1619" tvg-name="beIN Sports Xtra" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD18000145F_20230926T013745SQUARE.png_20230926013746.png" group-title="Sport",beIN Sports Xtra
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1630" tvg-name="DAZN Women's Football" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC470001096_20230426T013232SQUARE.png_20230426013232.png" group-title="Sport",DAZN Women's Football
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomensport-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1632" tvg-name="PGA Tour" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900022R5_20230913T014827SQUARE.png_20230913014827.png" group-title="Sport",PGA Tour
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_pgatour_001.m3u8
+#EXTINF:-1 tvg-chno="1639" tvg-name="Fuel TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800002FD_20230726T002724SQUARE.png_20230726002725.png" group-title="Sport",Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1640" tvg-name="Trace Sports Stars" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000015OY_20220329T055433SQUARE.png_20220329055434.png" group-title="Sport",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1641" tvg-name="Red Bull TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD3800002RI_20231213T033759SQUARE.png_20231213033800.png" group-title="Sport",Red Bull TV
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1649" tvg-name="Surfer" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU400006LH_20240417T021829SQUARE.png" group-title="Sport",Surfer
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1660" tvg-name="MavTV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD41000031H_20231213T033757SQUARE.png_20231213033758.png" group-title="Sport",MavTV
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1661" tvg-name="MTRSPT1" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD18000115L_20230926T013742SQUARE.png_20230926013744.png" group-title="Sport",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1663" tvg-name="Motorsport.TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB1700010OW_20230222T043612SQUARE.png_20230222043613.png" group-title="Sport",Motorsport.TV
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno="1665" tvg-name="Horse & Country" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000003DL_20220329T055420SQUARE.png_20220329055421.png" group-title="Sport",Horse & Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-hnc-free-samsung-au/playlist.m3u8
+#EXTINF:-1 tvg-chno="1730" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD4500010ZJ_20240228T040334SQUARE.png_20240228040335.png" group-title="Ambient",Stingray Holidayscapes
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingrayholidayscapes_001.m3u8
+#EXTINF:-1 tvg-chno="1731" tvg-name="Stingray Naturescape" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3900016L9_20220329T055423SQUARE.png_20220329055423.png" group-title="Ambient",Stingray Naturescape
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingraynaturescape_001.m3u8
+#EXTINF:-1 tvg-chno="1733" tvg-name="Fireplace" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD4500003AY_20241113T015853SQUARE.png" group-title="Ambient",Fireplace
+https://d22w22d3eu3t35.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1833" tvg-name="Vevo Pop" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700005QN_20230726T002705SQUARE.png_20230726002706.png" group-title="Music",Vevo Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1834" tvg-name="Vevo Retro Rock" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700006KZ_20230726T002708SQUARE.png_20230726002709.png" group-title="Music",Vevo Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1835" tvg-name="Vevo 2K" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700004MS_20230322T011345SQUARE.png_20230322011346.png" group-title="Music",Vevo 2K
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1836" tvg-name="Vevo Country" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4700007GM_20230726T002703SQUARE.png_20230726002704.png" group-title="Music",Vevo Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1837" tvg-name="Vevo 70s" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800003FX_20230524T003235SQUARE.png_20230524003236.png" group-title="Music",Vevo 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1838" tvg-name="Vevo 80s" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800004PX_20230524T003237SQUARE.png_20230524003238.png" group-title="Music",Vevo 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1839" tvg-name="Vevo 90s" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800005G4_20230524T003239SQUARE.png_20230524003240.png" group-title="Music",Vevo 90s
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1850" tvg-name="Now 70s" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000012P6_20220329T055455SQUARE.png_20220329055456.png" group-title="Music",Now 70s
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1851" tvg-name="Now 80s" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000130S_20220329T055457SQUARE.png_20220329055458.png" group-title="Music",Now 80s
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1852" tvg-name="Now Rock" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000143R_20230322T011354SQUARE.png_20230322011355.png" group-title="Music",Now Rock
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1860" tvg-name="Trace Urban" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000168V_20220329T055435SQUARE.png_20220329055436.png" group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1897" tvg-name="TeleTubbies" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD4100008J7_20240522T015219SQUARE.png" group-title="Kids",TeleTubbies
+https://d1mxjtebmoshcc.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="1901" tvg-name="Strawberry Shortcake" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU1400001MF_20240508T020053SQUARE.png" group-title="Kids",Strawberry Shortcake
+https://d3kuzudxjuzgkx.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="1903" tvg-name="Sonic the Hedgehog" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD41000072G_20240508T020050SQUARE.png" group-title="Kids",Sonic the Hedgehog
+https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="1905" tvg-name="Duck TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD3800001VH_20231025T004605SQUARE.png_20231025004606.png" group-title="Kids",Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1907" tvg-name="PBS Kids" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD800008AW_20240508T020048SQUARE.png" group-title="Kids",PBS Kids
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1 tvg-chno="1908" tvg-name="Mr Bean Animated" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AU9000078T_20240710T021711SQUARE.png" group-title="Kids",Mr Bean Animated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanuk-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1909" tvg-name="Caillou" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC1800010LS_20240522T015211SQUARE.png" group-title="Kids",Caillou
+https://d3jm6503vvwy1p.cloudfront.net/Caillou_US.m3u8
+#EXTINF:-1 tvg-chno="1912" tvg-name="Kidoodle.TV" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD800010G1_20240717T030003SQUARE.png" group-title="Kids",Kidoodle.TV
+https://kidoodle-tv-kidoodletv-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1913" tvg-name="Toon Goggles" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB4800003K1_20240508T020055SQUARE.png" group-title="Kids",Toon Goggles
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="1915" tvg-name="Kartoon Channel" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4000019QL_20240508T020031SQUARE.png" group-title="Kids",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1920" tvg-name="Ryan and Friends" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA3500009R6_20220329T055427SQUARE.png_20220329055428.png" group-title="Kids",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1435" tvg-name="Alien Nation by DUST",Alien Nation by DUST
+http://gunpowder-dust-intl-samsung-au-xu3pn.amagi.tv/playlist/gunpowder-dust-intl-samsung-au/playlist.m3u8
+#EXTINF:-1 tvg-chno="9991" tvg-name="Car City Adventures",Car City Adventures
+https://d2509zmfc5zmey.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="9992" tvg-name="Clubbing TV",Clubbing TV
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1211" tvg-name="Cricket Gold",Cricket Gold
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-chno="9993" tvg-name="Homes under the Hammer",Homes under the Hammer
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1465" tvg-name="Qwest TV",Qwest TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1413" tvg-name="TED",TED
+https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
+

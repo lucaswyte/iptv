@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="19" tvg-name="MyTime Movie Network" tvg-logo="https://i.postimg.cc/5yBnjJPB/My-Time-Movie-Network.png" group-title="Entertainment",MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeus-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-name="Poker Night in America" tvg-logo="https://i.postimg.cc/fLjLBddX/Poker-Night-in-America.png" group-title="Sports",Poker Night in America
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a88fac4403c3f21b811d0/master.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-name="Hard Knocks" tvg-logo="https://i.postimg.cc/y6tZ30mN/Hard-Knocks.png" group-title="Sports",Hard Knocks
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a8917c4403c3f21b811d1/121.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-name="FITE 24x7" tvg-logo="https://i.postimg.cc/Z502st9H/Fite-247.png" group-title="Sports",FITE 24x7
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d985979cd3b7d4c054f6b/263.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-name="The Grappling Network" tvg-logo="https://i.postimg.cc/QdhrJzb6/The-Grappling-Network.png" group-title="Sports",The Grappling Network
+https://dtpj9n6sutxcl.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RewardedTV-MuxIP-TheGrapplingNetwork/236.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-name="Channel Fight Masterclass" tvg-logo="https://i.postimg.cc/26d47yrt/Channel-FIght.png" group-title="Sports",Channel Fight Masterclass
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d995f79cd3b7d4c054f6d/266.m3u8
+#EXTINF:-1 tvg-chno="991" tvg-name="DeFiance Media" tvg-logo="https://i.postimg.cc/5Nzf7CZj/DeFiance.png" group-title="All",DeFiance Media
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01529-defiancetv-defiancemedia-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="992" tvg-name="Humor Mill TV" tvg-logo="https://i.postimg.cc/NML48Tdj/Humor-Mill.png" group-title="All",Humor Mill TV
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a892ac4403c3f21b811d2/152.m3u8
+#EXTINF:-1 tvg-chno="993" tvg-name="Infamous TV" tvg-logo="https://i.postimg.cc/kXNxbf7y/Infamous-TV.png" group-title="All",Infamous TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="994" tvg-name="Revolt" tvg-logo="https://i.postimg.cc/C5sXXbVp/Revolt.png" group-title="All",Revolt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revoltmixtape-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="995" tvg-name="SportsGrid" tvg-logo="https://i.postimg.cc/k4pB8RH9/SportsGrid.png" group-title="All",SportsGrid
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="996" tvg-name="Tayo+" tvg-logo="https://i.postimg.cc/GpPdCCpn/Rewarded-TV.png" group-title="All",Tayo+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="997" tvg-name="Wedo Big Docs" tvg-logo="https://i.postimg.cc/wM3HXWmb/Wedo-Big-Docs.png" group-title="All",Wedo Big Docs
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-rewardedtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="998" tvg-name="Wedo Big Stories" tvg-logo="https://i.postimg.cc/gJvDsg4D/Wedo-Big-Stories.png" group-title="All",Wedo Big Stories
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/63c8cbde28fcc49ecd5c700f/playlist.m3u8
+#EXTINF:-1 tvg-chno="999" tvg-name="Young Hollywood" tvg-logo="https://i.postimg.cc/tgCXRCgj/Young-Hollywood.png" group-title="All",Young Hollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-rewardedtv/playlist.m3u8

@@ -1,0 +1,113 @@
+#EXTM3U url-tvg="https://nocords.xyz/stirr/epg.xml"
+#EXTINF:-1 tvg-chno="760" tvg-id="5734" tvg-name="4K Travel TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png" group-title="Travel Live",4K Travel TV
+https://jmp2.uk/str-5734.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="5288" tvg-name="OAN Plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-512x512-square.png" group-title="News Live",OAN Plus
+https://jmp2.uk/str-5288.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="5716" tvg-name="Euronews" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/171260816144iEUqMsLC-512x512-square.png" group-title="News Live",Euronews
+https://jmp2.uk/str-5716.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="6441" tvg-name="My Money" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/173145112098GcT6p6jd-512x512-square.png" group-title="News Live",My Money
+https://jmp2.uk/str-6441.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="5720" tvg-name="Voice Of America" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712608909uUKqPRY67T-512x512-square.png" group-title="News Live",Voice Of America
+https://jmp2.uk/str-5720.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="6414" tvg-name="NTD News" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/12/17208180961n32NRsxVG-512x512-square.png" group-title="News Live",NTD News
+https://jmp2.uk/str-6414.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="6437" tvg-name="ChiveTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/10/23/1729705999Vutg5rRvSr-512x512-square.png" group-title="Sports Live",ChiveTV
+https://jmp2.uk/str-6437.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="771" tvg-name="FITE 24 7" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/08/25/1661452611f3ZQYyky7j-512x512-square.png" group-title="Sports Live",FITE 24 7
+https://jmp2.uk/str-771.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="6409" tvg-name="Teton Gravity Research TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/06/08/1717867613yzx1M6pnjz-512x512-square.png" group-title="Sports Live",Teton Gravity Research TV
+https://jmp2.uk/str-6409.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="5721" tvg-name="Automotion" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="Sports Live",Automotion
+https://jmp2.uk/str-5721.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="5274" tvg-name="Swerve Combat" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733806MaB2vqPJDD-512x512-square.png" group-title="Sports Live",Swerve Combat
+https://jmp2.uk/str-5274.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="5300" tvg-name="The Grappling Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-512x512-square.png" group-title="Sports Live",The Grappling Network
+https://jmp2.uk/str-5300.m3u8
+#EXTINF:-1 tvg-chno="400" tvg-id="5304" tvg-name="Poker Night in America" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446483Xo5uqT2uBS-512x512-square.png" group-title="Sports Live",Poker Night in America
+https://jmp2.uk/str-5304.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="5887" tvg-name="Surfing Plus Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-512x512-square.png" group-title="Sports Live",Surfing Plus Channel
+https://jmp2.uk/str-5887.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="1549" tvg-name="Extreme+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-512x512-square.jpg" group-title="Sports Live",Extreme+
+https://jmp2.uk/str-1549.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="5730" tvg-name="Nitro TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-512x512-square.png" group-title="Sports Live",Nitro TV
+https://jmp2.uk/str-5730.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="5306" tvg-name="World Poker Tour" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447076xqJOPBocEx-512x512-square.png" group-title="Sports Live",World Poker Tour
+https://jmp2.uk/str-5306.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="5726" tvg-name="Nautical Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-512x512-square.png" group-title="Sports Live",Nautical Channel
+https://jmp2.uk/str-5726.m3u8
+#EXTINF:-1 tvg-chno="440" tvg-id="5294" tvg-name="Cricket Gold" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-512x512-square.png" group-title="Sports Live",Cricket Gold
+https://jmp2.uk/str-5294.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-id="5295" tvg-name="Equus Television Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-512x512-square.png" group-title="Sports Live",Equus Television Network
+https://jmp2.uk/str-5295.m3u8
+#EXTINF:-1 tvg-chno="460" tvg-id="5293" tvg-name="Adventure Sports TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png" group-title="Sports Live",Adventure Sports TV
+https://jmp2.uk/str-5293.m3u8
+#EXTINF:-1 tvg-chno="470" tvg-id="5305" tvg-name="Sports First" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-512x512-square.jpg" group-title="Sports Live",Sports First
+https://jmp2.uk/str-5305.m3u8
+#EXTINF:-1 tvg-chno="480" tvg-id="5407" tvg-name="Drone TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/170871539370SyzUanQG-512x512-square.png" group-title="Sports Live",Drone TV
+https://jmp2.uk/str-5407.m3u8
+#EXTINF:-1 tvg-chno="991" tvg-id="1072" tvg-name="Channel Fight Masterclass" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-512x512-square.png" group-title="Sports Live",Channel Fight Masterclass
+https://jmp2.uk/str-1072.m3u8
+#EXTINF:-1 tvg-chno="700" tvg-id="3353" tvg-name="Omstars" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-512x512-square.png" group-title="Food and Fitness Live",Omstars
+https://jmp2.uk/str-3353.m3u8
+#EXTINF:-1 tvg-chno="900" tvg-id="5290" tvg-name="QVC's The Big Dish Channel" tvg-logo="https://i.postimg.cc/y65jbv4q/QVCs-The-Big-Dish-Channel.png" group-title="Food and Fitness Live",QVC's The Big Dish Channel
+https://jmp2.uk/str-5290.m3u8
+#EXTINF:-1 tvg-chno="500" tvg-id="5421" tvg-name="QVC" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/29/1709169525FMZObgSW84-512x512-square.png" group-title="Shopping Live",QVC
+https://jmp2.uk/str-5421.m3u8
+#EXTINF:-1 tvg-chno="510" tvg-id="5291" tvg-name="HSN" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/170743599023pPRmXtWB-512x512-square.png" group-title="Shopping Live",HSN
+https://jmp2.uk/str-5291.m3u8
+#EXTINF:-1 tvg-chno="550" tvg-id="5417" tvg-name="Shop LC" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/28/17091442539RbHfoa9hA-512x512-square.jpg" group-title="Shopping Live",Shop LC
+https://jmp2.uk/str-5417.m3u8
+#EXTINF:-1 tvg-chno="805" tvg-id="6443" tvg-name="Our Vinyl TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731451322HlMZsF2k8u-512x512-square.png" group-title="Music Live",Our Vinyl TV
+https://jmp2.uk/str-6443.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="6430" tvg-name="GenB TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/23/1724446551yjP7AKnwyK-512x512-square.png" group-title="Default Category",GenB TV
+https://jmp2.uk/str-6430.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-id="6413" tvg-name="CraftsyTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/10/1720630616hOs8DCitjP-512x512-square.png" group-title="Default Category",CraftsyTV
+https://jmp2.uk/str-6413.m3u8
+#EXTINF:-1 tvg-chno="503" tvg-id="6581" tvg-name="5-Minute Crafts" tvg-logo="" group-title="Default Category",5-Minute Crafts
+https://jmp2.uk/str-6581.m3u8
+#EXTINF:-1 tvg-chno="818" tvg-id="6591" tvg-name="La La Life" tvg-logo="" group-title="Default Category",La La Life
+https://jmp2.uk/str-6591.m3u8
+#EXTINF:-1 tvg-chno="992" tvg-id="6424" tvg-name="Speed Sport 1" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/31/1722458403rVipSpep8n-512x512-square.png" group-title="Default Category",Speed Sport 1
+https://jmp2.uk/str-6424.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="5442" tvg-name="Always Funny" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png" group-title="Comedy Live",Always Funny
+https://jmp2.uk/str-5442.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-id="6207" tvg-name="Always Funny: Pranks & Fails" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png" group-title="Comedy Live",Always Funny: Pranks & Fails
+https://jmp2.uk/str-6207.m3u8
+#EXTINF:-1 tvg-chno="630" tvg-id="5302" tvg-name="Humor Mill TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445067DapGBq9zX8-512x512-square.png" group-title="Comedy Live",Humor Mill TV
+https://jmp2.uk/str-5302.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="6439" tvg-name="Wild Television Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731450734sR0YMSWnS6-512x512-square.png" group-title="Entertainment Live",Wild Television Network
+https://jmp2.uk/str-6439.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="5430" tvg-name="Right Now TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/07/1709832676KjRR7jMuCJ-512x512-square.png" group-title="Entertainment Live",Right Now TV
+https://jmp2.uk/str-5430.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="5735" tvg-name="Just for Laughs" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-512x512-square.jpg" group-title="Entertainment Live",Just for Laughs
+https://jmp2.uk/str-5735.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="5746" tvg-name="Encore+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614773d0hO0AsmYW-512x512-square.png" group-title="Entertainment Live",Encore+
+https://jmp2.uk/str-5746.m3u8
+#EXTINF:-1 tvg-chno="160" tvg-id="5741" tvg-name="Beani TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614207epG0O1C8HN-512x512-square.png" group-title="Entertainment Live",Beani TV
+https://jmp2.uk/str-5741.m3u8
+#EXTINF:-1 tvg-chno="165" tvg-id="5748" tvg-name="Kiddo+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615596PiXd3KGBGy-512x512-square.png" group-title="Entertainment Live",Kiddo+
+https://jmp2.uk/str-5748.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-id="5740" tvg-name="Ace TV by Sportlocker" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png" group-title="Entertainment Live",Ace TV by Sportlocker
+https://jmp2.uk/str-5740.m3u8
+#EXTINF:-1 tvg-chno="465" tvg-id="5747" tvg-name="Hunt Fish TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png" group-title="Entertainment Live",Hunt Fish TV
+https://jmp2.uk/str-5747.m3u8
+#EXTINF:-1 tvg-chno="600" tvg-id="5289" tvg-name="AWE Plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-512x512-square.png" group-title="Entertainment Live",AWE Plus
+https://jmp2.uk/str-5289.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-id="5299" tvg-name="Freebie TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442253rVkI5jmfsL-512x512-square.png" group-title="Entertainment Live",Freebie TV
+https://jmp2.uk/str-5299.m3u8
+#EXTINF:-1 tvg-chno="625" tvg-id="5739" tvg-name="Docu Vision" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-512x512-square.png" group-title="Entertainment Live",Docu Vision
+https://jmp2.uk/str-5739.m3u8
+#EXTINF:-1 tvg-chno="635" tvg-id="5436" tvg-name="Popstar! TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/19/1710878507YBl20Hfw1j-512x512-square.png" group-title="Entertainment Live",Popstar! TV
+https://jmp2.uk/str-5436.m3u8
+#EXTINF:-1 tvg-chno="645" tvg-id="5745" tvg-name="Cowboy Movie Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png" group-title="Entertainment Live",Cowboy Movie Channel
+https://jmp2.uk/str-5745.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-id="5308" tvg-name="Zoomer Television" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447606lfFjnn5nEx-512x512-square.png" group-title="Entertainment Live",Zoomer Television
+https://jmp2.uk/str-5308.m3u8
+#EXTINF:-1 tvg-chno="675" tvg-id="5752" tvg-name="Mercury+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-512x512-square.png" group-title="Entertainment Live",Mercury+
+https://jmp2.uk/str-5752.m3u8
+#EXTINF:-1 tvg-chno="690" tvg-id="5273" tvg-name="CrimeFlix" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-512x512-square.jpg" group-title="Entertainment Live",CrimeFlix
+https://jmp2.uk/str-5273.m3u8
+#EXTINF:-1 tvg-chno="994" tvg-id="6408" tvg-name="Dark Matters TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/06/04/1717533002w8nxppqXt4-512x512-square.png" group-title="Entertainment Live",Dark Matters TV
+https://jmp2.uk/str-6408.m3u8
+#EXTINF:-1 tvg-chno="993" tvg-id="6208" tvg-name="Law & Crime" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715322161KLh9b4MrYo-512x512-square.png" group-title="Entertainment Live",Law & Crime
+https://jmp2.uk/str-6208.m3u8
