@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml.gz"
+#EXTM3U url-tvg="https://tv.lucaswyte.au/roku-epg"
 #EXTINF:-1 tvg-chno="141" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678135959373_euronews_english_260x147.png" group-title="News and Weather",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="News and Weather",LiveNOW from FOX

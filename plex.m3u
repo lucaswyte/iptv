@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
+#EXTM3U url-tvg="https://tv.lucaswyte.au/plex-epg"
 #EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-name="AccuWeather Now" tvg-logo="" group-title="plex",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Always.Funny.plex" tvg-name="Always Funny Videos" tvg-logo="" group-title="plex",Always Funny Videos

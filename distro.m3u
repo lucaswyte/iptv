@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz"
+#EXTM3U url-tvg="https://tv.lucaswyte.au/distro-epg"
 #EXTINF:-1 tvg-id="Africanews.distro" tvg-name="Africanews" tvg-logo="https://i.postimg.cc/sDTN0RQ2/AfricaNews.png" group-title="News & Opinion",Africanews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.de
 #EXTINF:-1 tvg-id="Al.Jazeera.English.distro" tvg-name="Al Jazeera" tvg-logo="https://i.postimg.cc/MphthZWz/Al-Jazeera.png" group-title="News & Opinion",Al Jazeera
