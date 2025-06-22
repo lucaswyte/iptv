@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gay FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96482d.png" group-title="Gay & Lesbian",Gay FM
+https://streaming.silvacast.com/GAYFM.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Kyle & Jackie O Show" tvg-logo="https://cdn-profiles.tunein.com/p313795/images/logod.png?t=638838438280000000" group-title="General",The Kyle & Jackie O Show
+https://28783.mc.tritondigital.com/OMNY_THEKYLEJACKIEOSHOW_PODCAST1_P/media-session/0e8d4bae-d27f-401b-847f-947993395932/d/clips/fa326977-3de5-4283-9b8b-af3500c58607/d49247d1-94a1-4e8e-bdd1-af4600179d73/53667706-7291-4f7b-8c2e-b30200086c25/audio/direct/t1750380917/FULL_SHOW_'Officer_wierdo'.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eastside Radio" tvg-logo="https://cdn-profiles.tunein.com/s10712/images/logod.png?t=636480755330630000" group-title="Sydney",Eastside Radio
+https://streamer.eastsidefm.org/stream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EasyMix" tvg-logo="https://cdn-profiles.tunein.com/s256531/images/logod.jpg?t=636709659929030000" group-title="Sydney",EasyMix
+https://stream.lava.net.au/au_tas_net_easymix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FBi Radio" tvg-logo="https://cdn-profiles.tunein.com/s8834/images/logod.jpg?t=636332292276800000" group-title="Sydney",FBi Radio
+https://streamer.fbiradio.com/stream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fine Music Sydney" tvg-logo="https://cdn-profiles.tunein.com/s8115/images/logod.png?t=638694197000000000" group-title="Sydney",Fine Music Sydney
+https://fmfm.org.au:8001/2MBSFineMusicSydney.MP3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIIS" tvg-logo="https://cdn-radiotime-logos.tunein.com/s17232d.png" group-title="Sydney",KIIS
+https://28863.live.streamtheworld.com/ARN_KIIS1065AAC.aac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova" tvg-logo="https://cdn-profiles.tunein.com/s17115/images/logod.png?t=636240674168200000" group-title="Sydney",Nova
+https://14533.live.streamtheworld.com/NOVA_969_AAC48.aac?dist=tunein
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova Nation" tvg-logo="https://cdn-profiles.tunein.com/s325795/images/logod.jpg?t=638379897760000000" group-title="Sydney",Nova Nation
+https://28863.live.streamtheworld.com/NOVA_NATION_SYDNEY.mp3?dist=tunein
