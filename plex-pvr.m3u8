@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/G3kVZYwm/AccuWeather-Now.png",AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/pTVR93hH/All-Reality-We-TV.png",All Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/Y0TWBNJk/Always-Funny.png",Always Funny
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/FF3Vr5Z9/Choppertown.png",Choppertown
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/6pbByP03/Freebie-tv.png",Freebie TV
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/qMnmt6xC/Hard-Knocks.png",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/SQc8C6Hq/Hi-Yah.png",Hi-Yah!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/26RySJkW/Humor-Mill.png",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/26tD5LFK/Museum-TV.png",Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/zfWbTRbP/Popstar-TV.png",Popstar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/ZY6dwQwf/revry-alt.png",Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/tCcGtxKR/revry-news.png",Revry News
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/fycnw2H8/SportsGrid.png",SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/yYn6cxPv/Timeline.png",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/yNDNWJZk/Wonder.png",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/x1CfFkgt/WPT.png",WPT
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 group-title="Plex" tvg-logo="https://i.postimg.cc/j5VR5MTF/Yahoo-Finance.png",Yahoo! Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
